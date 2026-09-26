@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "FranktechAI — Your technical & digital assistant",
   description:
-    "Ask FranktechAI anything about FrankTechSpace services, government procedures, troubleshooting, and our prices.",
+    "Ask FranktechAI anything about Cyber services, government procedures, troubleshooting, and our prices.",
   applicationName: "FranktechAI",
   manifest: "/manifest.webmanifest",
   appleWebApp: {
